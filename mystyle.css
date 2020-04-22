@@ -1,0 +1,101 @@
+
+
+.container-fluid
+{
+    background-color: #FAC57E  ;
+}
+.link1:hover
+{
+    text-decoration: none;
+    color:white;
+}
+
+.btn-link:hover
+{
+    text-decoration: none;
+     color:maroon; 
+}
+.btn
+{
+  
+    color:#3B3B8A; 
+    
+}
+.btn-danger
+{
+  
+    color:white; 
+    
+}
+
+.nav-item
+{
+    padding:0px 18px;
+}
+
+.nav-link
+{
+    font-size:1.1rem;
+    font-weight: bold;
+    
+   
+  
+ 
+}
+/*.nav-link:after
+{
+   content: '';
+  position: absolute;
+  width: 0; height: 3px;
+  display: block;
+  margin-top: 5px;
+  right: 0;
+  background: #000;
+  transition: width .4s ease;
+    
+    
+    
+}
+.nav-link:hover:after{
+  width: 100%;
+  left: 0;
+  background: #000;
+}*/
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown-toggle::after
+{
+    content: none;
+}
+.nav-item a:hover
+{
+    color:white;
+    background-color: #3B3B8A   ;
+}
+#navbarDropdownMenuLink:hover
+{
+     color:white;
+    background-color: #3B3B8A   ;
+       border-radius: 20px;
+}
+#aw:hover
+{
+     color:white;
+    background-color: #3B3B8A   ;
+    border-radius: 20px;
+}
+/*.carousel .carousel-inner
+{
+    height:750px;
+   
+}*/
+#exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
+
+#exTab3 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
